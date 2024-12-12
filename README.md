@@ -2,4 +2,4 @@
 
 More info at: https://repairfaq.org/sam/uSLC1/uSLC1.htm .
 
-Copyright (c) Samuel M. Goldwasser, 1994-2024, all rights reserved.
+Copyright® Samuel M. Goldwasser, 1994-2024, all rights reserved.
